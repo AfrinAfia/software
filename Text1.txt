@@ -1,0 +1,6 @@
+git config --global user.name "Nihad477"
+git config --global user.email "danihad2002@gmail.com"
+git init
+git remote add origin https://github.com/Nihad477/Git-Example.git
+
+git commit -m "1st Commit"
