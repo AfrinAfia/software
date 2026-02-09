@@ -1,6 +1,8 @@
-git config --global user.name "Nihad477"
-git config --global user.email "danihad2002@gmail.com"
+git config --global user.name "AfrinAfia"
+git config --global user.email "afiaa900@gmail.com"
 git init
-git remote add origin https://github.com/Nihad477/Git-Example.git
-
+ git remote add origin https://github.com/AfrinAfia/software.git
+git branch -M main
+git add Text1.txt
 git commit -m "1st Commit"
+git push -u origin main
